@@ -2,8 +2,7 @@
 
 ![Metrics](https://metrics.lecoq.io/Pcjmy?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pcjmy&hide=stars&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pcjmy&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Pcjmy&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pcjmy&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 <!--
 **Pcjmy/Pcjmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
